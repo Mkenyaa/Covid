@@ -12,5 +12,5 @@ Given the predefined starter code to generate a simple animation graph, continue
 * Deploy your app to streamlit
 
 ### SUBMISSION
-Submit the link to your streamlit app
+Submit the link to your streamlit app.
 
